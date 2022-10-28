@@ -982,9 +982,6 @@ textarea#comment::placeholder {
 
 .footer_menu {
     width: 100%;
-    float: left;
-    text-align: center;
-    padding-top: 40px;
 }
 
 .footer_menu ul {
@@ -1224,5 +1221,9 @@ margin-left:73px;
 }
 
 .scrittefine1{
+margin-left: 118px;
+}
+
+.scrittefine2{
 margin-left: 12px;
 }
